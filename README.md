@@ -90,15 +90,7 @@ flutter run
 ### API Key Setup
 `[FILL IN: e.g., "Create a .env file with STOCK_API_KEY=your_key_here" or wherever the API key is configured]`
 
-## Screenshots
 
-`[FILL IN: add 2-3 screenshots of the app here for visual impact — this matters a lot for mobile app repos]`
-```markdown
-<p float="left">
-  <img src="assets/screenshots/home.png" width="200" />
-  <img src="assets/screenshots/stock_detail.png" width="200" />
-  <img src="assets/screenshots/news.png" width="200" />
-</p>
 ```
 
 ## Future Improvements
